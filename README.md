@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mahendra Malviya 👋</h1>
-<h3 align="center">Software Engineer | AI Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Computer Science Student | Python & AI Learner | Aspiring Developer</h3>
 
 <p align="center">
   Passionate about building clean, useful, and modern web applications with a strong focus on AI, automation, and impactful user experiences.
@@ -19,11 +19,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **DevPulse AI**
-- 🌱 I’m currently learning **Agentic AI**
-- 👯 I’m looking to collaborate on **advanced AI assistant projects and JARVIS-style systems**
+- 🔭 Currently working on AI-based projects like **FlowMind AI**  
+- 🌱 Learning Python and Machine Learning fundamentals 
+- 👯 Interested in building real-world AI applications  
 - 💬 Ask me about **industry trends, computer science, and artificial intelligence**
-- ⚡ Fun fact: I enjoy **singing, dancing, and sometimes just chilling**
+- ⚡ Open to collaboration on beginner-level AI and development projects 
 
 ---
 
