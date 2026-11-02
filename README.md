@@ -1,114 +1,78 @@
 <h1 align="center">Hi, I'm Mahendra Malviya 👋</h1>
-<h3 align="center">Computer Science Student | Python & AI Learner | Aspiring Developer</h3>
 
 <p align="center">
-  Passionate about building clean, useful, and modern web applications with a strong focus on AI, automation, and impactful user experiences.
+  <strong>Computer Science Student • Python & AI Learner • Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahendra-malviya-722932319/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahendra%20Malviya-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mahendramalviya8962@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Mahi-887&style=for-the-badge" alt="Profile views" />
+  I build practical web applications and AI-powered tools focused on automation,<br />
+  developer productivity, finance, image processing, and immersive simulations.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mahi-887">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mahendra-malviya-722932319/">LinkedIn</a>
 </p>
 
 ---
 
 ## About Me
 
-- 🔭 Currently working on AI-based projects like **FlowMind AI**  
-- 🌱 Learning Python and Machine Learning fundamentals 
-- 👯 Interested in building real-world AI applications  
-- 💬 Ask me about **industry trends, computer science, and artificial intelligence**
-- ⚡ Open to collaboration on beginner-level AI and development projects 
+- 🔭 Building AI-powered products and full-stack applications
+- 🌱 Learning Python, machine learning, system design, and modern web development
+- 🧠 Interested in AI agents, automation, developer tools, and real-world problem solving
+- 🤝 Open to collaborating on interesting software and AI projects
 
----
-
-## Skills
+## Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+### Frameworks & Tools
 
-### Backend
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-</p>
-
----
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Mahi-887/Craver">Craver</a></h3>
-      <p>A Django-based image processing tool for crop, resize, rotate, grayscale conversion, and compression.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Mahi-887/FlowMind_AI">FlowMind_AI</a></h3>
-      <p>An AI-powered Django app with OTP login, Mermaid diagram generation, history tracking, and PNG export.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Mahi-887/clothing-shop">clothing-shop</a></h3>
-      <p>A full-stack e-commerce clothing shop built with Next.js, Express.js, MongoDB, JWT auth, Stripe payments, and admin features.</p>
-    </td>
-  </tr>
-</table>
-
----
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Virtual UAV Engine](https://github.com/Mahi-887/Virtual-UAV-engine-) | Digital twin and intelligent predictive health monitoring platform for UAV engines with telemetry, 3D visualization, anomaly detection, and RUL estimation. | Python, Flask, ML, Three.js |
+| [DevPulse AI](https://github.com/Mahi-887/IT_Companies_Agent) | AI-powered engineering shadow that answers codebase questions, tracks knowledge, and helps developers debug with context. | Python, AI, Backend |
+| [FlowMind AI](https://github.com/Mahi-887/FlowMind_AI) | Converts natural-language prompts into Mermaid flowcharts, sequence diagrams, and mindmaps with history and PNG export. | Django, Gemini, Mermaid.js |
+| [FinCash](https://github.com/Mahi-887/fin_cash) | Financial wellness platform with personalized roadmaps, AI-driven guidance, learning features, and payment integration. | React, Node.js, FastAPI, MongoDB |
+| [Telly Rating](https://github.com/Mahi-887/Telly-Rating-) | Store rating and discovery platform with role-based experiences for administrators, store owners, and patrons. | React, TypeScript, Express, PostgreSQL |
+| [FashionHub](https://github.com/Mahi-887/clothing-shop) | Full-stack clothing e-commerce platform with authentication, product management, orders, wishlist, admin tools, and Stripe payments. | Next.js, Express, MongoDB |
+| [Craver](https://github.com/Mahi-887/Craver) | Image processing web app for cropping, rotating, resizing, grayscale conversion, and compression. | Django, Python, JavaScript |
+| [Malware Extension](https://github.com/Mahi-887/Malware-Extension) | Security-focused browser extension project for exploring malware detection and browser security concepts. | Python |
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahi-887&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-887&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahi-887&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-887&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
 
----
+## Connect With Me
 
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahendra-malviya-722932319/" target="_blank">LinkedIn</a> •
-  <a href="mailto:mahendramalviya8962@gmail.com">Email</a>
+<p>
+  <a href="https://www.linkedin.com/in/mahendra-malviya-722932319/">LinkedIn</a> •
+  <a href="https://github.com/Mahi-887">GitHub</a>
 </p>
 
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<p align="center"><b>Thanks for visiting my profile! 🚀</b></p>
